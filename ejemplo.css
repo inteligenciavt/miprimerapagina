@@ -1,13 +1,5 @@
 
 
-
-
-
-
-
-
-
-
 img:hover { 
  transform: scaleX(-1);
 img{ 
@@ -34,13 +26,18 @@ color:#BD3AA2 ;
 font-family: 'Arial';
 
  }
+p { 
+color: purple;
+font-family: 'arial',sans-serif;
+font-size: 18px;
+font-weight: normal;
+text-align: justify;
+line-height: 1,6 ;
+transform-style: 10px;
 
-
-
-
-
-
-
+border: 2px solid powderblue;
+padding: 30px;
+ 
 
 
 
